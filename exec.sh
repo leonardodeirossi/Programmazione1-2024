@@ -1,7 +1,7 @@
 #!/bin/bash
 
 header() {
-  printf "Fleming Deployment Management (Ver. 1.0.0)"
+  printf "Fleming Deployment Management (Ver. 1.1.0)"
   printf "\n"
   printf "(C) 2024 - Leonardo Essam, all rights reserved"
   printf "\n\n"
